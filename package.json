@@ -1,0 +1,24 @@
+{
+  "name": "music-tech-blog",
+  "version": "1.0.0",
+  "description": "Simple blog about music technology, production, and mixing",
+  "scripts": {
+    "watch": "sass --watch ./sass/main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jxhnkndl/music-tech-blog.git"
+  },
+  "keywords": [
+    "music",
+    "blog",
+    "technology",
+    "simple",
+    "sleek"
+  ],
+  "author": "jxhnkndl",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.79.4"
+  }
+}

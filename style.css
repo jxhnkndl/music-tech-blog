@@ -1,8 +1,6 @@
-/*
-Theme Name: Music Tech Blog
-Version: 1.0
-Description: Simple blog about music technology, production, and mixing
-Tags: blog, music, technology, simple, sleek
-Author: jxhnkndl
-Author URI: https://www.github.com/jxhnkndl
-*/
+body {
+  background-color: #0D0D0D;
+  color: #F2F2F2;
+}
+
+/*# sourceMappingURL=style.css.map */
