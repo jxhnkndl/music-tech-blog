@@ -1,3 +1,8 @@
 <?php /* Template Name: Home Page */ ?>
+<?php get_header(); ?>
 
-<h1>HOME</h1>
+<main>
+
+</main>
+
+<?php get_footer(); ?>
